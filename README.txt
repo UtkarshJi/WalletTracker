@@ -1,6 +1,7 @@
 # WalletTracker
 
 About
+
 🚀 Welcome to WalletTracker 🚀
 
 Your ultimate solution to managing expenses and incomes efficiently! With a sleek, intuitive interface, WalletTracker simplifies your financial management, helping you stay on top of your finances effortlessly. Track every penny, categorize transactions, and get insightful summaries to make informed decisions.
